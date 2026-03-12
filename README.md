@@ -58,13 +58,13 @@ This design ensures **efficient data retrieval and structured relationships betw
 
 ### Employee Management Module
 
-![Employee ER Diagram](smallbiz-employee-module-erd.png)
+![smallbiz-employee-module-erd png](https://github.com/user-attachments/assets/18f24978-7651-4932-9b2f-e3b7cb0de078)
 
 This diagram illustrates relationships between the employee entity and related modules such as attendance, payroll, department, and training.
 
 ### Complete Database Schema
 
-![Full Database ER Diagram](smallbiz-full-database-erd.png)
+![smallbiz-full-database-erd png](https://github.com/user-attachments/assets/3733c964-842a-4033-a1d3-5d599cadb98c)
 
 The full ER diagram represents the overall structure of the SmallBiz Navigator system, including asset management, logistics, and project workflows.
 
